@@ -1,7 +1,7 @@
 {
-  "name": "FLIP-STIX",
-  "short_name": "FLIP-STIX",
-  "description": "FLIP-STIX – das 5-Bit Stäbe-Puzzle",
+  "name": "FLIP x FIT",
+  "short_name": "FLIPxFIT",
+  "description": "Das Rätselspiel mit echten FLIP x FIT Stäben",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
